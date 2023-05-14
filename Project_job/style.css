@@ -1,0 +1,32 @@
+input{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#btnSend{
+    width: 10%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.Title{
+    text-align: center;
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container{
+    
+    align-items: center;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

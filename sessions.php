@@ -9,5 +9,4 @@ echo "Session started"."<br/>";
 
 echo "User: ".$_SESSION["user"].", Status: ".$_SESSION["status"];
 
-
 ?>

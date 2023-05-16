@@ -1,0 +1,1 @@
+Hola, este es un archivo de texto, para hacer la prueba de que puedes leer un archivo de texto desde un archivo php.
